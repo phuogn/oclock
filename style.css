@@ -1,0 +1,17 @@
+.clock {
+    padding: 20px;
+}
+
+#time {
+    font-size: 40px;
+    color: rgb(16, 44, 123);
+    font-style: inherit;
+    text-align: center;
+    margin: 0;
+}
+
+#date {
+    color: rgb(16, 44, 123);
+    text-align: center;
+    margin: 0;
+}
